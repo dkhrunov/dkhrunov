@@ -1,6 +1,7 @@
 ### Hi, I'm Denis 👋
-
+---
 I build software with Javascript (React and Angular).
+---
 <!--
 **therealpanda98/therealpanda98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
