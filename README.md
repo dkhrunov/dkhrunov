@@ -14,9 +14,14 @@
 </a>
 
 Hi, I'm Denis, but you can call me Den.
-I'm a Front-end Typescript Developer from Russia ❤️🐻❄️
+
+I'm a Front-end Typescript Developer from Russia ❤️, **23 years old** 👶🏻 and 3 years of coding 💻.
 
 I build software with **Javascript** (**React** and **Angular**).
+
+* ✏ Sometimes I write posts on Medium, [follow me](https://dekh.medium.com/).
+* 💡 Always aiming at  **usability** and **code performance** at all costs.
+* 📖 Learning any tecnology that apears on my way.
 
 ## Languages and tools:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -30,13 +35,3 @@ I build software with **Javascript** (**React** and **Angular**).
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<!--
-**therealpanda98/therealpanda98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
