@@ -1,5 +1,4 @@
 ## Hi, I'm Denis 👋
----
 
 I build software with Javascript (React and Angular).
 
