@@ -1,6 +1,4 @@
-## Hi, I'm Denis 👋
-
-I build software with **Javascript** (**React** and **Angular**).
+## Hi, I'm Denis 👋 
 
 <a target="_blank" href="https://vk.com/realpanda">
   <img align="left" alt="vk" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />
@@ -15,7 +13,12 @@ I build software with **Javascript** (**React** and **Angular**).
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
-### Languages and tools:
+Hi, I'm Denis, but you can call me Den.
+I'm a Front-end Typescript Developer from Russia ❤️🐻❄️
+
+I build software with **Javascript** (**React** and **Angular**).
+
+## Languages and tools:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
