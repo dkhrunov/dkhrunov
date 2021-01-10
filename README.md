@@ -1,7 +1,7 @@
 ## Hi, I'm Denis 👋 
 Hi, I'm Denis, but you can call me Den.
 
-I'm a Front-end Typescript Developer from Russia ❤️, **23 years old** 👶🏻 and 3 years of coding 💻.
+I'm a Front-end Typescript Developer from Russia ❤️, **23 years old** 👶🏻 and 4 years of coding 💻.
 
 I build software with **Javascript** (**React** and **Angular**).
 
