@@ -24,6 +24,9 @@ I build software with **Javascript** (**React** and **Angular**).
 
 ## Connect with me
 
+<a target="_blank" href="mailto:therealpanda98@gmail.com">
+  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
 <a target="_blank" href="https://vk.com/realpanda">
   <img align="left" alt="vk" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />
 </a>
@@ -32,7 +35,4 @@ I build software with **Javascript** (**React** and **Angular**).
 </a>
 <a target="_blank" href="https://dekh.medium.com/">
   <img align="left" alt="Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a>
-<a target="_blank" href="mailto:therealpanda98@gmail.com">
-  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
