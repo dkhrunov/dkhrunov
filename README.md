@@ -7,7 +7,7 @@ I build software with **Javascript** (**React** and **Angular**).
 
 * ✏ Sometimes I write posts on Medium, [follow me](https://dekh.medium.com/).
 * 💡 Always aiming at  **usability** and **code performance** at all costs.
-* 📖 Learning any tecnology that apears on my way.
+* 📖 Learning any technology that appears ears on my way.
 
 ## Languages and tools:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
