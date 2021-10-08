@@ -28,9 +28,6 @@ I build software with **Javascript** (**React** and **Angular**).
 <a target="_blank" href="https://vk.com/realpanda">
   <img align="left" alt="vk" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />
 </a>
-<a target="_blank" href="https://www.instagram.com/denishrunov/">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
 <a target="_blank" href="https://dekh.medium.com/">
   <img align="left" alt="Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
