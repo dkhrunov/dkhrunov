@@ -3,8 +3,12 @@ Hi, I'm Denis, but you can call me Den.
 
 I'm a Front-end Typescript Developer from Russia ❤️, **23 years old** 👶🏻 and 2 years of coding 💻.
 
-I build software with **Javascript** (**React** and **Angular**).
+I am engaged in front-end development, the main stack of Angular 2+ and in my free time I continue my training in the field of front-end, JS / TS and studying other front-end frameworks.
 
+I build software with **Javascript/Typescript** (**React** and **Angular**) 🛠.
+
+* 🖤 Love technology.
+* 🎓 Always strive to write clean, understandable and high-quality code.
 * ✏ Sometimes I write posts on Medium, [follow me](https://dekh.medium.com/).
 * 💡 Always aiming at  **usability** and **code performance** at all costs.
 * 📖 Learning any technology that appears ears on my way.
