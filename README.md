@@ -3,9 +3,11 @@ Hi, I'm Denis, but you can call me Den.
 
 I'm a Front-end Typescript Developer from Russia ❤️, **24 years old** and 3 years of coding 💻.
 
-I am engaged in front-end development, the main stack of Angular 2+ and in my free time I continue my training in the field of front-end, JS / TS and studying other front-end frameworks.
+Engaged in front-end development, the main stack of Angular 2+ and in my free time I continue my training in the field of front-end, JS / TS and studying other front-end frameworks.
 
-I build software with **Javascript/Typescript** (**React** and **Angular**) 🛠.
+I'm a micro-frontend enthusiast, created the [ngx-mfe](https://github.com/dkhrunov/ngx-mfe) library for a plugin-based approach to MFE, and wrote several posts about MFE, you can read it [here](https://dekh.medium.com/angular-micro-frontend-architecture-part-1-3-the-concept-of-micro-frontend-architecture-2ff56a5ac264).
+
+I build software with **Javascript/Typescript** (**Angular** and **React**) 🛠.
 
 * 🖤 Love technology.
 * 🎓 Always strive to write clean, understandable and high-quality code.
@@ -23,15 +25,3 @@ I build software with **Javascript/Typescript** (**React** and **Angular**) 🛠
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
-## Connect with me
-
-<a target="_blank" href="mailto:therealpanda98@gmail.com">
-  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-<a target="_blank" href="https://vk.com/realpanda">
-  <img align="left" alt="vk" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />
-</a>
-<a target="_blank" href="https://dekh.medium.com/">
-  <img align="left" alt="Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a>
