@@ -15,7 +15,12 @@ I build software with **Javascript/Typescript** (**Angular** and **React**) 🛠
 * 💡 Always aiming at  **usability** and **code performance** at all costs.
 * 📖 Learning any technology that appears ears on my way.
 
+![My stats](https://github-readme-stats.vercel.app/api?username=dkhrunov&theme=default_repocard&show_icons=true)
+
 ## Languages and tools:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dkhrunov&hide=css&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
