@@ -6,7 +6,7 @@ Engaged in front-end development, the main stack of Angular 2+ and in my free ti
 
 I'm a micro-frontend enthusiast, created the [ngx-mfe](https://github.com/dkhrunov/ngx-mfe) library for a plugin-based approach to MFE, and wrote several posts about MFE, you can read it [here](https://dekh.medium.com/angular-micro-frontend-architecture-part-1-3-the-concept-of-micro-frontend-architecture-2ff56a5ac264).
 
-I build software with **Javascript/Typescript** (**Angular** and **React**) 🛠.
+I build software with **Javascript/Typescript** (**Angular** / **React** and **NodeJs** / **NestJs**) 🛠.
 
 * 🖤 Love technology.
 * 🎓 Always strive to write clean, understandable and high-quality code.
