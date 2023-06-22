@@ -16,6 +16,11 @@ I build software with **Javascript/Typescript** (**Angular** / **React** and **N
 
 ![My stats](https://github-readme-stats.vercel.app/api?username=dkhrunov&theme=default_repocard&show_icons=true)
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/dkhrunov/count.svg" />
+</p>
+
 ## Languages and tools:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dkhrunov&hide=css&langs_count=8)
@@ -32,8 +37,3 @@ I build software with **Javascript/Typescript** (**Angular** / **React** and **N
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/dkhrunov/count.svg" />
-</p>
