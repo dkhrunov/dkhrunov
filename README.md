@@ -25,7 +25,7 @@ I build software with **Javascript/Typescript** (**Angular** / **React** and **N
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dkhrunov&hide=css&langs_count=8)
 
-<img src="https://api.roadmap.sh/v1-badge/tall/64640253410780a6d9b657f1?variant=light" alt="roadmap.sh"/>
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64640253410780a6d9b657f1?variant=dark)](https://roadmap.sh)
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
